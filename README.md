@@ -1,4 +1,4 @@
-# Fit-Flow-
+# Fit-Flow
 🏋️‍♂️ Fit-Flow  “Your personal fitness companion — track workouts, follow personalized plans, and achieve your health goals effortlessly.”
 
 FitFlow is a modern fitness web application designed to help users track workouts, monitor progress, and maintain a healthy lifestyle.  
@@ -20,4 +20,4 @@ It provides personalized fitness plans, diet charts, and an intuitive dashboard 
 Clone the repository:
 ```bash
 git clone https://github.com/shruuu01/FitFlow.git
-cd FitFlow
+cd fit-flow-main
